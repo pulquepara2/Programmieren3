@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen_Ue7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text_einlesen/Zeilenweise_Tastatureingaben_Ue8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/File_Input_Output/Ue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +49,22 @@
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Text_einlesen">
-    <configuration name="Text_einlesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Zeilenweise_Tastatureingaben_Ue8">
+    <configuration name="Text_einlesen.Text_einlesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Text_einlesen.Text_einlesen" />
+      <module name="Programmieren3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text_einlesen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text_einlesen_Ue7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Text_einlesen_Ue7" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
@@ -74,32 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ue4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue4" />
-      <module name="Programmieren3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="File_Input_Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ue5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue5" />
-      <module name="Programmieren3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="File_Input_Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ue6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue6" />
       <module name="Programmieren3" />
@@ -113,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zeilenweise_Tastatureingaben_Ue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Zeilenweise_Tastatureingaben_Ue8" />
+      <module name="Programmieren3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text_einlesen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Text_einlesen" />
+        <item itemvalue="Application.Zeilenweise_Tastatureingaben_Ue8" />
+        <item itemvalue="Application.Text_einlesen.Text_einlesen" />
+        <item itemvalue="Application.Text_einlesen_Ue7" />
         <item itemvalue="Application.Ue1" />
         <item itemvalue="Application.Ue6" />
-        <item itemvalue="Application.Ue5" />
-        <item itemvalue="Application.Ue4" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,7 @@
       <workItem from="1684136964521" duration="8410000" />
       <workItem from="1684148081384" duration="9980000" />
       <workItem from="1684232046236" duration="4072000" />
-      <workItem from="1684304385156" duration="1542000" />
+      <workItem from="1684304385156" duration="6841000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684159094962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="neu">
+      <created>1684306048388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684306048388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

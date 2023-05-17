@@ -7,6 +7,7 @@ import java.io.InputStream;
 import java.util.Scanner;
 
 public class Text_einlesen {
+    //wird erst später gemacht, hab ich nur aus Google kopiert
     public static void main(String args[]) throws Exception {
         InputStream ins = new FileInputStream("C:\\Users\\s53033\\einlesetext.txt");
         Scanner obj = new Scanner(ins);
