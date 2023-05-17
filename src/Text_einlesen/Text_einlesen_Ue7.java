@@ -14,6 +14,7 @@ public class Text_einlesen_Ue7 {
         BufferedReader br =new BufferedReader(fr);
 
         String zeile = br.readLine();
+        //readline kann eine Exception verursachen, daher brauchen wir throws
         while (zeile != null){
             System.out.println(zeile);
             zeile = br.readLine();
