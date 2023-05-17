@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11/ProductManager.java" afterDir="false" />
+    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="dfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_Output/Ue11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_Output/Ue11/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +133,7 @@
       <workItem from="1684136964521" duration="8410000" />
       <workItem from="1684148081384" duration="9980000" />
       <workItem from="1684232046236" duration="4072000" />
-      <workItem from="1684304385156" duration="15370000" />
+      <workItem from="1684304385156" duration="16450000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684316276336</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dfg">
+      <created>1684322941506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684322941506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="neu" />
-    <option name="LAST_COMMIT_MESSAGE" value="neu" />
+    <MESSAGE value="dfg" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfg" />
   </component>
 </project>
