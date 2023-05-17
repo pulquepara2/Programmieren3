@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmieren3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue6.java" afterDir="false" />
+    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
+      <change afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File_Input_Output/Ue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/File_Input_Output/Ue2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s53033/IdeaProjects/P2_2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -55,13 +47,13 @@
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ue6">
-    <configuration name="Ue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue2" />
+  <component name="RunManager" selected="Application.Text_einlesen">
+    <configuration name="Text_einlesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Text_einlesen" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="File_Input_Output.*" />
+          <option name="PATTERN" value="Text_einlesen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ue3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue3" />
+    <configuration name="Ue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue1" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Text_einlesen" />
+        <item itemvalue="Application.Ue1" />
         <item itemvalue="Application.Ue6" />
         <item itemvalue="Application.Ue5" />
         <item itemvalue="Application.Ue4" />
-        <item itemvalue="Application.Ue3" />
-        <item itemvalue="Application.Ue2" />
       </list>
     </recent_temporary>
   </component>
@@ -140,8 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684136962450</updated>
       <workItem from="1684136964521" duration="8410000" />
-      <workItem from="1684148081384" duration="9669000" />
+      <workItem from="1684148081384" duration="9980000" />
+      <workItem from="1684232046236" duration="4072000" />
+      <workItem from="1684304385156" duration="1542000" />
     </task>
+    <task id="LOCAL-00001" summary="neu">
+      <created>1684159094962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159094962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,5 +159,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="neu" />
+    <option name="LAST_COMMIT_MESSAGE" value="neu" />
   </component>
 </project>

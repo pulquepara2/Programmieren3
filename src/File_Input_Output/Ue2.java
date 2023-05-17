@@ -10,7 +10,7 @@ public class Ue2 {
 
             File file3 = new File(dir);
 
-            //list all dirs an files
+            //list all dirs and files
 
             System.out.println("Gibt es dieses file/ordner: " + file3.exists());
             System.out.println("Ist es eine directory: " + file3.isDirectory());
