@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="dfg">
+      <change afterPath="$PROJECT_DIR$/src/Text_einlesen/Uebung8_mit_Exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Text_Output/Ue11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_Output/Ue11/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,24 +29,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/s53033/IdeaProjects/P2_2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/s53033/IdeaProjects/Programmieren3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\src" />
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Uebung8_mit_Exception">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Text_Output.Ue11.Main" />
       <module name="Programmieren3" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Text_einlesen.Text_einlesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Text_einlesen" />
+    <configuration name="Uebung8_mit_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Uebung8_mit_Exception" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uebung8_mit_Exception" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Text_Output.Ue10" />
         <item itemvalue="Application.Text_Output.Ue9" />
         <item itemvalue="Application.Zeilenweise_Tastatureingaben_Ue8" />
-        <item itemvalue="Application.Text_einlesen.Text_einlesen" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,8 @@
       <workItem from="1684148081384" duration="9980000" />
       <workItem from="1684232046236" duration="4072000" />
       <workItem from="1684304385156" duration="16450000" />
+      <workItem from="1684911306391" duration="16000" />
+      <workItem from="1684911389316" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
