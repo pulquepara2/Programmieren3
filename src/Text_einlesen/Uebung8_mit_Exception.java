@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 public class Uebung8_mit_Exception {
     //Unterschied: try catch- ich kann Fehlermeldung behandeln
     // bei throw: Programm stirbt einfach
+    //throw: selbst Exception werfen
+    //throws: wenn kein try und catch
         public static void main(String[] args)  {
             InputStreamReader fr = new InputStreamReader(System.in);
             BufferedReader br = new BufferedReader(fr);
