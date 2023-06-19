@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="dfg">
-      <change afterPath="$PROJECT_DIR$/src/Binary_I_O/Uebung12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_I_O/Uebung12_mit_Exceptions.java" afterDir="false" />
+    <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/Multithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/MultithreadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/SingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Console_Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/HintergroundThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/s53033/IdeaProjects/Programmieren3",
     "project.structure.last.edited": "Modules",
@@ -47,13 +57,13 @@
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Uebung8_mit_Exception">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_Output.Ue11.Main" />
+      <option name="MAIN_CLASS_NAME" value="Threads.example2_hoefliches_stoppen.Main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Text_Output.Ue11.*" />
+          <option name="PATTERN" value="Threads.example2_hoefliches_stoppen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Text_Output.Ue10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_Output.Ue10" />
+    <configuration name="Multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.Multithread" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Text_Output.Ue11.*" />
+          <option name="PATTERN" value="Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Text_Output.Ue9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_Output.Ue9" />
+    <configuration name="Threads.SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.SingleThread" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Text_Output.Ue11.*" />
+          <option name="PATTERN" value="Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uebung8_mit_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Uebung8_mit_Exception" />
+    <configuration name="Threads.example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.example1.Main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Text_einlesen.*" />
+          <option name="PATTERN" value="Threads.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zeilenweise_Tastatureingaben_Ue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Text_einlesen.Zeilenweise_Tastatureingaben_Ue8" />
+    <configuration name="Threads.uebung_3_1.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.uebung_3_1.main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Text_einlesen.*" />
+          <option name="PATTERN" value="Threads.uebung_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Uebung8_mit_Exception" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Text_Output.Ue10" />
-        <item itemvalue="Application.Text_Output.Ue9" />
-        <item itemvalue="Application.Zeilenweise_Tastatureingaben_Ue8" />
+        <item itemvalue="Application.Threads.uebung_3_1.main" />
+        <item itemvalue="Application.Threads.example1.Main" />
+        <item itemvalue="Application.Multithread" />
+        <item itemvalue="Application.Threads.SingleThread" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +146,9 @@
       <workItem from="1684232046236" duration="4072000" />
       <workItem from="1684304385156" duration="16450000" />
       <workItem from="1684911306391" duration="16000" />
-      <workItem from="1684911389316" duration="5978000" />
+      <workItem from="1684911389316" duration="6000000" />
+      <workItem from="1685428426094" duration="1429000" />
+      <workItem from="1687156492033" duration="10944000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
@@ -194,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684915707840</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="neu">
+      <created>1684925039491</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684925039491</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,8 +231,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="neu" />
     <MESSAGE value="dfg" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfg" />
+    <MESSAGE value="neu" />
+    <option name="LAST_COMMIT_MESSAGE" value="neu" />
   </component>
 </project>
