@@ -1,4 +1,4 @@
-package Threads;
+package Threads.Single_versus_Multi;
 
 public class Multithread {
     public static void main(String[] args)

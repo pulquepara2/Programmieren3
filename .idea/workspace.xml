@@ -2,18 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/MultithreadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/SingleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Console_Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example2_hoefliches_stoppen/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/HintergroundThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressExportException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressExportFileAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressLoadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Network_1_A/ReadFromURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/ConsoleH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/ConsoleH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_3/Worker33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_4/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/Multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/Multithread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/MultithreadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/MultithreadingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/SingleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/SingleThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/uebung_3_1/HintergroundThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,25 +62,50 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/s53033/IdeaProjects/Programmieren3",
+    "last_opened_file_path": "C:/Users/s53033/Downloads/file_Abschlussbeispiel_80%_fertig",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="File_Input_Output.Abschlussbeispiel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Text_Output\Ue11_try_catch" />
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\uebung_3_4" />
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\uebung_3_2" />
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\example4_konto_positiv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\src" />
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\.idea" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Network" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Abschlussbeispiel.Demo" />
+      <module name="Programmieren3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File_Input_Output.Abschlussbeispiel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.example2_hoefliches_stoppen.Main" />
+      <option name="MAIN_CLASS_NAME" value="Text_Output.Ue11_try_catch.Ue11.Main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.example2_hoefliches_stoppen.*" />
+          <option name="PATTERN" value="Text_Output.Ue11_try_catch.Ue11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.Multithread" />
+    <configuration name="Network.Network_1_A.ReadFromURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network.Network_1_A.ReadFromURL" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.*" />
+          <option name="PATTERN" value="Network.Network_1_A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threads.SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.SingleThread" />
+    <configuration name="Threads.uebung_3_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.uebung_3_3.Main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.*" />
+          <option name="PATTERN" value="Threads.uebung_3_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threads.example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.example1.Main" />
+    <configuration name="Threads.uebung_3_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads.uebung_3_4.Main" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Threads.uebung_3_1.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.uebung_3_1.main" />
-      <module name="Programmieren3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Threads.uebung_3_1.*" />
+          <option name="PATTERN" value="Threads.uebung_3_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Threads.uebung_3_1.main" />
-        <item itemvalue="Application.Threads.example1.Main" />
-        <item itemvalue="Application.Multithread" />
-        <item itemvalue="Application.Threads.SingleThread" />
+        <item itemvalue="Application.Network.Network_1_A.ReadFromURL" />
+        <item itemvalue="Application.Threads.uebung_3_3.Main" />
+        <item itemvalue="Application.Threads.uebung_3_4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +177,10 @@
       <workItem from="1684911306391" duration="16000" />
       <workItem from="1684911389316" duration="6000000" />
       <workItem from="1685428426094" duration="1429000" />
-      <workItem from="1687156492033" duration="10944000" />
+      <workItem from="1687156492033" duration="18647000" />
+      <workItem from="1687243219293" duration="14380000" />
+      <workItem from="1687329099033" duration="370000" />
+      <workItem from="1687418270125" duration="11059000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
@@ -213,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684925039491</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="neu">
+      <created>1687173382054</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687173382055</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

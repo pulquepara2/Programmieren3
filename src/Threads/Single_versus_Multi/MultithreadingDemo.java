@@ -1,4 +1,4 @@
-package Threads;
+package Threads.Single_versus_Multi;
 
 public class MultithreadingDemo implements Runnable {
     public void run()
