@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressExportException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressExportFileAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/AddressLoadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Input_Output/Abschlussbeispiel/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Network/Network_1_A/ReadFromURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text_Output/Ue11_try_catch/Ue11/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/example4_konto_positiv/example4/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/ConsoleH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/ConsoleH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_3/Worker33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung_3_4/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel2/CheckResponseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel2/ReadServerFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel2/SetClientFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel2/SubmitPostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel3/ClientToServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Beispiel3/ListenToSingleClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Multithread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/Multithread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/MultithreadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/MultithreadingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/SingleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Single_versus_Multi/SingleThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/uebung_3_1/HintergroundThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/uebung_3_1/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/s53033/Downloads/file_Abschlussbeispiel_80%_fertig",
+    "last_opened_file_path": "C:/Users/s53033/IdeaProjects/Programmieren3/src/Network/Beispiel3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -73,10 +51,11 @@
       <recent name="File_Input_Output.Abschlussbeispiel" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Network\Beispiel3" />
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Network\Beispiel2" />
+      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\File_Input_Output\Abschlussbeispiel" />
       <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Text_Output\Ue11_try_catch" />
       <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\uebung_3_4" />
-      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\uebung_3_2" />
-      <recent name="C:\Users\s53033\IdeaProjects\Programmieren3\src\Threads\example4_konto_positiv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s53033\Downloads\Pruefung1 Startpaket\Programmieren3\src" />
@@ -180,7 +159,8 @@
       <workItem from="1687156492033" duration="18647000" />
       <workItem from="1687243219293" duration="14380000" />
       <workItem from="1687329099033" duration="370000" />
-      <workItem from="1687418270125" duration="11059000" />
+      <workItem from="1687418270125" duration="11774000" />
+      <workItem from="1687764936335" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="neu">
       <created>1684159094962</created>
@@ -252,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687173382055</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="neu">
+      <created>1687434907763</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687434907763</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
