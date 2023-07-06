@@ -23,4 +23,15 @@ public class Text_einlesen_Ue7 {
         // Close, damit andere Programme wieder darauf zugreifen können
         //Filereader muss nicht geschlossen werden, nur Br, der gibt die Info dann weiter
     }
+    //  Fuchs-Lösung:
+    //  FileReader fr = new FileReader("C:\\campus02\\test\\uebung7\\uebung7.txt");
+    //        BufferedReader br = new BufferedReader(fr);
+    //        String line;
+    //        while ((line = br.readLine()) != null){
+    //            System.out.println(line);
+    //        }
+    //        br.close();
+    //
+    //    }
+    //}
 }

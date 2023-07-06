@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung2/ConsoleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung2/FileReadWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung2/TimePrintWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/uebung2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen_Ue7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen_Ue7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/s53033/IdeaProjects/Programmieren3/src/Network/Beispiel3",
+    "last_opened_file_path": "C:/Users/veron/IdeaProjects/pruefungsvorbereitung_p3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -64,7 +64,7 @@
       <recent name="Network" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Threads.uebung2.Main">
+  <component name="RunManager" selected="Application.Ue2">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File_Input_Output.Abschlussbeispiel.Demo" />
       <module name="Programmieren3" />
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threads.uebung_3_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.uebung_3_3.Main" />
+    <configuration name="Ue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File_Input_Output.Ue2" />
       <module name="Programmieren3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.uebung_3_3.*" />
+          <option name="PATTERN" value="File_Input_Output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ue2" />
         <item itemvalue="Application.Threads.uebung2.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Network.Network_1_A.ReadFromURL" />
-        <item itemvalue="Application.Threads.uebung_3_3.Main" />
       </list>
     </recent_temporary>
   </component>
