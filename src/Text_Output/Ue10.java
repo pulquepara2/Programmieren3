@@ -28,4 +28,23 @@ public class Ue10 {
         br.close();
 
     }
+    //File f = new File("meineNoten.txt");
+    //        FileWriter fileWriter = new FileWriter(f);
+    //        PrintWriter printWriter = new PrintWriter(fileWriter);
+    //        InputStreamReader streamy = new InputStreamReader(System.in);
+    //        BufferedReader br = new BufferedReader(streamy);
+    //
+    //        String line;
+    //        System.out.println("Text eingeben: ");
+    //
+    //        while (!(line= br.readLine()).equals("STOP")){
+    //            printWriter.println(line);
+    //            System.out.println(line);
+    //
+    //            }
+    //            br.close();
+    //            printWriter.flush();
+    //            printWriter.close();
+    //
+    //        }
 }

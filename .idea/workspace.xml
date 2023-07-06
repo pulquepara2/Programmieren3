@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8dd0c8b-cd24-411a-b02f-f9423ac10795" name="Changes" comment="neu">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen_Ue7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_einlesen/Text_einlesen_Ue7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_Output/Ue9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_Output/Ue9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text_einlesen/Zeilenweise_Tastatureingaben_Ue8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text_einlesen/Zeilenweise_Tastatureingaben_Ue8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687766889250</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="neu">
+      <created>1688635691256</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688635691256</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
